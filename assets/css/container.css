@@ -1,0 +1,10 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: var(--FontSpaceMono);
+    color: #000000;
+    background-color: #fff200;
+}
